@@ -1,0 +1,8 @@
+theme: jekyll-theme-midnight
+
+title: CahBot Hub
+description: pick your cahbot
+show_downloads: false
+
+gems:
+  - jekyll-mentions
