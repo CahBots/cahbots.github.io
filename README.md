@@ -4,7 +4,7 @@ There are many CahBots! So many we actually made this.
 
 [CahBot C r y s t a l](http://crystal.cahbot.pro)
 
-[CahBot I R C (or, IRCahBot)](https://cahbots.github.io/ircahbot/)
+[CahBot I R C (or, IRCahBot)](http://ir.cahbot.pro)
 
 # Who made these amazing bots?
 
