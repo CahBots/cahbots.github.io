@@ -1,12 +1,17 @@
 There are many CahBots! So many we actually made this.
 
-[CahBot R u b y](http://ruby.cahbot.pro)
+So which is the right cahbot for you?
 
-[CahBot C r y s t a l](http://crystal.cahbot.pro)
+Name | [CahBot R u b y](http://ruby.cahbot.pro) | [CahBot C r y s t a l](http://crystal.cahbot.pro) | [CahBot I R C](http://ir.cahbot.pro)
+---:|:---------------:|:-----------:|:---------:
+**Invite** | [Invite to Server](http://invite.cahbot.pro/) | ~~Invite to Server~~ | ~~Invite to Server~~
+**Source** | [cahbots/cahbot](http://github.com/cahbots/cahbot) | [cahbots/cahbot-rewrite](http://github.com/cahbots/cahbot-rewrite) | [cahbots/ircahbot](http://github.com/cahbots/ircahbot)
+**Language** | Ruby | Crystal | Ruby
+**Platform** | Discord | Discord | IRC
 
-[CahBot I R C (or, IRCahBot)](http://ir.cahbot.pro)
+Confused? We are too! Head to our [discord server](http://invite.cahbot.pro) and we will be happy to help.
 
-# Who made these amazing bots?
+### Who made these amazing bots?
 
 That would be [Cah](http://github.com/2003cah)! Give him a high-five.
 
