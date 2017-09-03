@@ -9,7 +9,7 @@ Name | [CahBot R u b y](http://ruby.cahbot.pro) | [CahBot C r y s t a l](http://
 **Language** | Ruby | Crystal | Ruby
 **Platform** | Discord | Discord | IRC
 
-Confused? We are too! Head to our [discord server](http://invite.cahbot.pro) and we will be happy to help.
+Confused? We are too! Head to our [discord server](http://discord.cahbot.pro) and we will be happy to help.
 
 ### Who made these amazing bots?
 
