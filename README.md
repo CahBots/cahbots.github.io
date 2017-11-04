@@ -9,10 +9,12 @@ Name | [CahBot R u b y](http://ruby.cahbot.pro) | [CahBot C r y s t a l](http://
 **Language** | Ruby | Crystal | Ruby
 **Platform** | Discord | Discord | IRC
 
-Confused? We are too! Head to our [discord server](http://discord.cahbot.pro) and we will be happy to help.
+Confused? We are too! Head to our [discord server](https://discord.gg/cWmvfmz) and we will be happy to help.
+[![Discord Server](https://discordapp.com/api/guilds/252196054101917696/embed.png?style=banner3)](https://discord.gg/cWmvfmz)
+
 
 ### Who made these amazing bots?
 
-That would be [Cah](http://github.com/2003cah)! Give him a high-five.
+That would be [Cah](https://github.com/2003cah)! Give him a high-five.
 
 but chew also helped too, thanks [chew](https://chew.pw)
